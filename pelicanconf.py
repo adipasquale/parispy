@@ -3,8 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Adrien Di Pasquale'
-SITENAME = 'ParisPy'
-SITEURL = ''
+SITENAME = 'ParisPy Meetup'
+# SITEURL = "http://localhost:8000"
+SITETITLE = 'ParisPy Meetup'
+SITELOGO = '/images/python-logo.png'
 
 PATH = 'content'
 
@@ -20,16 +22,19 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Meetup.com Page', 'https://www.meetup.com/Paris-py-Python-Django-friends'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+
+SOCIAL = (
+  ('twitter', 'https://twitter.com/paris_py'),
+)
 
 DEFAULT_PAGINATION = False
 
+THEME = "./theme"
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+SUMMARY_MAX_LENGTH = None
