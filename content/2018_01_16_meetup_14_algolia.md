@@ -6,3 +6,5 @@ Category: Meetup
 - Ari Bajo Rouvinen - Apache Airflow DAG
 - Hervé Mignot - Modern Pandas : Pipeline Syntax
 - Julien Palard - async sans asyncio
+
+[Voir l'évènement sur Meetup.com](https://www.meetup.com/Paris-py-Python-Django-friends/events/245495073/)

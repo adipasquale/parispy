@@ -6,3 +6,5 @@ Category: Meetup
 - Ange Bouable nous présentera un cas original d'utilisation de Django
 - Guillaume Dedrie présentera et fera la demo du projet IRMA
 - Boris Feld et Alexandre Joseph parlerons tests et notamment de mock
+
+[Voir l'évènement sur Meetup.com](https://www.meetup.com/Paris-py-Python-Django-friends/events/219954911/)

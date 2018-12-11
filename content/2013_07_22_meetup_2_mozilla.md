@@ -6,3 +6,5 @@ Category: Meetup
 - Adrien Guillo sur le Global Interpreter Lock
 - Alexis Metaireau sur Loads, un outil de load testing
 - Sylvain Zimmer sur la migration de Celery à RQ (librairies pour gérer des files de tâches à exécuter)
+
+[Voir l'évènement sur Meetup.com](https://www.meetup.com/Paris-py-Python-Django-friends/events/127362422/)

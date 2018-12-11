@@ -6,3 +6,5 @@ Category: Meetup
 - Thierry Colsenet : Kickstart your python REST API in 5 minutes with hug!
 - Julien Palard : traduction de la doc en français
 - Alexandre Bonnetain : validations de csv avec csvalidate
+
+[Voir l'évènement sur Meetup.com](https://www.meetup.com/Paris-py-Python-Django-friends/events/238318089/)
