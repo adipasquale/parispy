@@ -1,4 +1,4 @@
-Title: À VENIR - Meetup 16 @ Toucan Touco
+Title: Meetup 16 @ Toucan Touco
 Date: 2018-12-18
 Category: Meetup
 
