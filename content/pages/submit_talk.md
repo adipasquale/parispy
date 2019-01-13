@@ -4,10 +4,10 @@ Category: Meetup
 
 Proposez nous une présentation pour le prochain meetup en remplissant ce formulaire. N'ayez pas peur, si vous n'êtes pas sûr·e du sujet nous vous aiderons à affiner !
 
-<form name="submit_a_talk" method="POST" data-netlify="true" netlify-honeypot="last_name" class="pure-form pure-form-stacked">
+<form name="submit_a_talk" method="POST" data-netlify="true" netlify-honeypot="last_name" class="pure-form pure-form-stacked" subject="New talk submission for Paris.py">
   <div class="">
-    <label for="name">Votre Nom</label>
-    <input name="name" type="text" id="name">
+    <label for="talk_name">Votre Nom</label>
+    <input name="talk_name" type="text" id="talk_name">
   </div>
 
   <div class="">
@@ -16,13 +16,13 @@ Proposez nous une présentation pour le prochain meetup en remplissant ce formul
   </div>
 
   <div class="">
-    <label for="title">Titre du talk</label>
-    <input name="title" type="text" id="title">
+    <label for="talk_title">Titre du talk</label>
+    <input name="talk_title" type="text" id="talk_title">
   </div>
 
   <div class="">
-    <label for="description">Description</label>
-    <textarea name="description" id="description" rows="8" cols="40"></textarea>
+    <label for="talk_description">Description</label>
+    <textarea name="talk_description" id="talk_description" rows="8" cols="40"></textarea>
   </div>
 
   <input style="display:none;" name="last_name" />
