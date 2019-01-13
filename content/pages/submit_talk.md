@@ -4,7 +4,7 @@ Category: Meetup
 
 Proposez nous une présentation pour le prochain meetup en remplissant ce formulaire. N'ayez pas peur, si vous n'êtes pas sûr·e du sujet nous vous aiderons à affiner !
 
-<form name="submit_a_talk" method="POST" data-netlify="true" netlify-honeypot="last_name" class="pure-form pure-form-stacked" subject="New talk submission for Paris.py">
+<form name="submit_a_talk" method="POST" data-netlify="true" netlify-honeypot="last_name" class="pure-form pure-form-stacked">
   <div class="">
     <label for="talk_name">Votre Nom</label>
     <input name="talk_name" type="text" id="talk_name">
@@ -26,6 +26,7 @@ Proposez nous une présentation pour le prochain meetup en remplissant ce formul
   </div>
 
   <input style="display:none;" name="last_name" />
+  <input type="hidden" name="subject" value="New talk submission for Paris.py" />
 
   <input type="submit" value="Envoyer" class="pure-button pure-button-primary">
 </form>
