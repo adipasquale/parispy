@@ -24,7 +24,6 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
   ('Groupe Meetup.com', 'https://www.meetup.com/Paris-py-Python-Django-friends'),
-  ('Proposez un talk !', 'https://goo.gl/forms/RiuLdXUM0cckgUWo2'),
   ('Contact', 'https://www.meetup.com/fr-FR/messages/?new_convo=true'),
 )
 
