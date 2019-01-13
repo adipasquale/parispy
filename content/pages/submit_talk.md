@@ -1,8 +1,8 @@
-Title: Proposez un talk
+Title: Proposez une présentation
 Date: 2013-06-12
 Category: Meetup
 
-Proposez nous un talk pour le prochain meetup en remplissante ce formulaire. N'ayez pas peur, si vous n'êtes pas sûr·e du sujet nous vous aiderons à affiner !
+Proposez nous une présentation pour le prochain meetup en remplissant ce formulaire. N'ayez pas peur, si vous n'êtes pas sûr·e du sujet nous vous aiderons à affiner !
 
 <form name="submit_a_talk" method="POST" data-netlify="true" netlify-honeypot="last_name" class="pure-form pure-form-stacked">
   <div class="">
