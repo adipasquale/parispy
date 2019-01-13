@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Adrien Di Pasquale'
 SITENAME = 'ParisPy Meetup'
-# SITEURL = "http://localhost:8000"
+SITEURL = "http://localhost:8000"
 SITETITLE = 'ParisPy Meetup'
 SITELOGO = '/images/python-logo.png'
 
