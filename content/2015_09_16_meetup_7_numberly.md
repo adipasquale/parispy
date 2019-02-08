@@ -1,4 +1,4 @@
-Title: Meetup 7 @ 1000 Mercis
+Title: Meetup 7 @ Numberly (ex-1000mercis)
 Date: 2015-09-16
 Category: Meetup
 

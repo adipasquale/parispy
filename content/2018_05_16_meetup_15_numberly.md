@@ -1,4 +1,4 @@
-Title: Meetup 15 @ 1000 Mercis
+Title: Meetup 15 @ Numberly (ex-1000mercis)
 Date: 2018-05-16
 Category: Meetup
 
